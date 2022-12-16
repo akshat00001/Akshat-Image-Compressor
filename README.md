@@ -3,4 +3,4 @@ An image compressor website
 #1. Methodology
 # 3. Input/ Output
 -Input is a image in .jpeg .jpg 
-![sitegif](https://user-images.githubusercontent.com/100310619/208192900-ed6a2b00-af40-4471-bfed-ccc83a239667.gif )
+![sitegif](https://user-images.githubusercontent.com/100310619/208193173-2a0ec131-ae30-4fd2-bf00-d52a0e0d3f6d.gif)
