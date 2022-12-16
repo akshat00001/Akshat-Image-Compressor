@@ -13,7 +13,7 @@ This is the project which is built using vanilla js stack, that is Html,Css and 
  - Output is the compressed form of image depending on the percentage of the slider
 ![sitegif](https://user-images.githubusercontent.com/100310619/208193173-2a0ec131-ae30-4fd2-bf00-d52a0e0d3f6d.gif)
 # 4. Live Link
-[Akshat's Image Compressor]("https://akshatimagecompressorwebsite.netlify.app")
+[Akshat's Image Compressor](https://akshatimagecompressorwebsite.netlify.app)
 # 5. Screen Shot of the Interface
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/100310619/208194000-4883947c-171d-48cb-804f-dd334f0e8b30.png">
 
